@@ -1,3 +1,7 @@
+layout: altpage
+title: "Alternate Index"
+permalink: /otherindex/
+
 # This is a Header
 
 This is a paragraph.
