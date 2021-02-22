@@ -10,5 +10,5 @@ To download the latest release go to [The github release page.](https://github.c
 
 To contribute to the project see [contributing section of the read-me file](https://github.com/Solaris-Skunk-Werks/solarisskunkwerks/blob/master/README.md) There are many ways to help improve and expand the project.
 
-Feel free to join the [discord server here](https://discordapp.com/invite/xc5pUWP)
+Feel free to join the [discord server.](https://discordapp.com/invite/xc5pUWP)
 
