@@ -18,6 +18,6 @@ To contribute to the project see [contributing section of the read-me file](http
 
 Feel free to join the [discord server.](https://discordapp.com/invite/xc5pUWP)
 
-Potatoes Cheese Pizza Fries Beef Pork Chips Salsa
+Potatoes Cheese Pizza Fries Beef Pork Chips Salsa Lasagna 
 
 
